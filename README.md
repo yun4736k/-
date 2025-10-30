@@ -1,5 +1,3 @@
-# -
-c#메모장
 using System;
 using System.Drawing;
 using System.IO;
